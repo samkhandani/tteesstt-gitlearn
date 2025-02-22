@@ -4,9 +4,4 @@ const isLogin = (username) => {
   }else {
     return false
   }
-<<<<<<< HEAD
-};
-
-=======
 }
->>>>>>> chanagelogin
