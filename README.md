@@ -6,10 +6,32 @@ this is a repositori for learn me i love git and github 🥰😘
 
 ---
 
+## Badge
 
-## code 
+![Images](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Images](https://img.shields.io/badge/Keras-FF0000?style=for-the-badge&logo=keras&logoColor=white)
+![Images](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![Images](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green)
+![Images](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
+![Images](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+![Images](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
+![Images](https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white)
+![Images](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Images](https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white)
 
-line `code`
+
+
+---
+
+## installation
+
+```
+pip instal 
+```
+
+## code
+
+js `code`
 
 ```js
 const isLogin = (username) => {
@@ -21,9 +43,9 @@ const isLogin = (username) => {
 }
 ```
 
+##  code 
 
-### html code 
-
+html `code`
 
 ```html
 <!DOCTYPE html>
@@ -38,6 +60,7 @@ const isLogin = (username) => {
 </body>
 </html>
 ```
+
 ---
 
 ## code
