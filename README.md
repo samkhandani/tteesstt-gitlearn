@@ -38,3 +38,44 @@ const isLogin = (username) => {
 </body>
 </html>
 ```
+---
+
+## code
+
+python `code`
+
+```py
+print('hello word') 
+def HelloWord(str):
+    print(str)
+
+
+
+HelloWord('print')
+```
+___
+
+## lists
+
+1. javascript
+2. HTML
+3. python
+4. tensorflew
+
+___
+
+- ML (`sklearn` `opencv` ==> pacage)
+- DL (`tensorflew` `Keras` ==> pacage)
+  - NLP and ai agent
+  
+---
+
+## project Lins
+
+[Link github](https://github.com)
+
+[Link Course git & github](https://sabzlearn.ir/course/git-github/)
+
+## Images
+
+![Images](https://www.codebook.in/static/main/img/courses/4.jpg)
