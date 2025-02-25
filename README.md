@@ -11,7 +11,7 @@ this is a repositori for learn me i love git and github 🥰😘
 
 line `code`
 
-```
+```js
 const isLogin = (username) => {
   if (username === 'sam' || username === 'ali' || username === 'sasan') {
     return true
@@ -25,7 +25,7 @@ const isLogin = (username) => {
 ### html code 
 
 
-```
+```html
 <!DOCTYPE html>
 <html lang="en">
 <head>
